@@ -1,4 +1,4 @@
-OctoPrint==1.9.2
+OctoPrint==1.10.1
 OctoPrint_FileCheck==2021.2.23
 OctoPrint_FirmwareCheck==2021.10.11
 OctoPrint_PiSupport==2023.5.24
