@@ -32,5 +32,5 @@ requests==2.31.0
 ruamel.yaml==0.17.32
 #ruamel.yaml.clib                      ==> crossenv
 #six                                   ==> python311:pure
-urllib3==2.0.4
+urllib3==2.2.2
 #virtualenv                            ==> python311:pure
