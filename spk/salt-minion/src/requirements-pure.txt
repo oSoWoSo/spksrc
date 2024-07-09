@@ -54,7 +54,7 @@ typing_extensions==4.7.1
 urllib3==2.0.4
 virtualenv==20.23.1
 zc.lockfile==3.0.post1
-zipp==3.16.2
+zipp==3.19.1
 
 # To allow patching rsax931.py during service setup 
 patch==1.16
